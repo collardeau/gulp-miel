@@ -1,0 +1,22 @@
+{
+  "name": "gulp-miel",
+  "version": "0.0.0",
+  "description": "a gulp plugin for miel",
+  "main": "index.js",
+  "keywords": [
+    "gulp",
+    "gulpplugin",
+    "gulp-plugin",
+    "miel"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/collardeau/gulp-miel"
+  },
+  "bugs": "https://github.com/collardeau/gulp-miel/issues",
+  "author": "Thomas Collardeau <thomas@collardeau.com> (http://thomas.collardeau.com/)",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "through2": "^2.0.0"
+  }
+}
