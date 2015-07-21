@@ -1,6 +1,6 @@
 {
   "name": "gulp-miel",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "a gulp plugin for miel",
   "main": "index.js",
   "keywords": [
@@ -17,6 +17,7 @@
   "author": "Thomas Collardeau <thomas@collardeau.com> (http://thomas.collardeau.com/)",
   "dependencies": {
     "gulp-util": "^3.0.6",
+    "miel": "0.0.1",
     "through2": "^2.0.0"
   }
 }
